@@ -1,0 +1,1 @@
+This is a simple web project that showcases the use of an video as a full-screen background, overlaid with styled text using CSS. The project demonstrates how to create visually engaging landing pages or intros by combining video elements with modern, responsive design. 
