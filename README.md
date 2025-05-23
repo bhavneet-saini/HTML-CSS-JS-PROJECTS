@@ -7,4 +7,4 @@ Each project is organized in a separate folder and include a **live demo** hoste
 [view Live] (https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/01.background-video/)
 
 |**02.Creative Loading Animation**| A simple loading animation can be used in dynamic websites | [source] (./02.Creative Loading Animation)
-[view Live]                                                                                                       (https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/02.Creative-Loading-Animation/)
+[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/02.creative-loading-animation/)
