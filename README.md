@@ -10,8 +10,8 @@ Each project is organized in a separate folder and include a **live demo** hoste
 [view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/02.creative-loading-animation/)
 
 |**03.custom-scrollbar**| hare are some unique scrollbar/slidebar. | [source] (./03.custom-scrollbar)
-[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/02.custom-scrollbar/)
+[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/03.custom-scrollbar/)
 
 |**04.creative-image-effect**| There is some images effects that enhance creativity. | [source] (./04.creative-image-effect)
-[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/02.creative-image-effect/)
+[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/04.creative-image-effect/)
 
