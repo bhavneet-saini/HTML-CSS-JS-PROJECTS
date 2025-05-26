@@ -24,8 +24,8 @@ Each project is organized in a separate folder and include a **live demo** hoste
 |**07.creative-image-effects**| design forments for images on website. | [source](./07.creative-image-effects) ||
 [view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/07.creative-image-effects/)
 
-|**08.creative-cards-effects**| multiple design formet's for cards area. | [source](./08.creative-cards-effects) ||
-[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/08.creative-cards-effects/)
+|**08.creative-cards**| multiple design formet's for cards area. | [source](./08.creative-cards) ||
+[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/08.creative-cards/)
 
 |**09.tooltip**| simple tootlip formatting. | [source](./09.tooltip) ||
 [view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/09.tooltip/)
