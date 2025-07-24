@@ -1,0 +1,87 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.img-container {
+    background:url(pexels-pedro-figueras-202443-681467.jpg) ;
+    height: 100vh;
+    background-position: top;
+    background-repeat: no-repeat;   
+    background-size: cover;
+    position: relative;
+}
+
+.img-container img {
+    position: absolute;
+    bottom: 25px;
+    right: 60px;
+    width: 120px;
+    cursor: pointer;
+    animation-name: bounce;
+    animation-duration: 1s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+}
+
+@keyframes bounce {
+    0% {
+        transform: translatey(0);
+        animation-timing-function: ease-out;
+    }
+
+    50% {
+        transform: translateY(-20px);
+        animation-timing-function: ease-in;
+    }
+
+    100% {
+        transform: translateY(0);
+        animation-timing-function: ease-out;
+    }
+}
+
+.trailer {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #000;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 1;
+    transition: oppacity 0.7s;
+}
+
+.trailer video {
+    position: absolute;
+    max-width: 900px;
+    outline: none;
+}
+
+.close-icon {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    color: blueviolet;
+    font-size: 40px;
+    font-family: sans-serif;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 100%;
+}
+
+@media (max-width:990px) {
+    .trailer .video {
+        max-width: 90%;
+    }
+}
+
+/* javaScript */
+.active.trailer {
+    visibility: hidden;
+    opacity: 0;
+}
