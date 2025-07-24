@@ -30,3 +30,14 @@ Each project is organized in a separate folder and include a **live demo** hoste
 |**09.tooltip**| simple tootlip formatting. | [source](./09.tooltip) ||
 [view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/09.tooltip/)
 
+|**10.accordion**| accordion with basic question and good design-formet. | [source](./10.accordion) ||
+[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/10.accordion/)
+
+|**11.scrollbar**| scrollbar can be used in any dynamic websites. | [source](./11.scrollbar) ||
+[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/11.scrollbar/)
+
+|**12.image-bg-text**| Name text with background image. | [source](./12.image-bg-text) ||
+[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/12.image-bg-text/)
+
+
+
