@@ -39,5 +39,24 @@ Each project is organized in a separate folder and include a **live demo** hoste
 |**12.image-bg-text**| Name text with background image. | [source](./12.image-bg-text) ||
 [view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/12.image-bg-text/)
 
+|**13.page-scroll-indicator**| Horizontal line that indicates user's scroll position. | [source](./13.page-scroll-indicator) ||
+[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/13.page-scroll-indicator/)
 
+|**14.heart-effect**| A animation that triggers when clicks to heart shape ❤. | [source](./14.heart-effect) ||
+[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/14.heart-effect/)
+
+|**15.bg-change-effect**| webpage where you get different RGB color's to click a button. | [source](./15.bg-change-effect) ||
+[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/15.bg-change-effect/)
+
+|**16.auto-text**| Auto generated text used in dynamic websites, provide unique interfaces. | [source](./16.auto-text) ||
+[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/16.auto-text/)
+
+|**17.custom-cursor**| Designe custom cursor to upgrade cursor layout simple to pro. | [source](./17.custom-cursor) ||
+[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/17.custom-cursor/)
+
+|**18.video-popup**| Interface where a video poped-up when we click to a button. | [source](./18.video-popup) ||
+[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/18.video-popup/)
+
+**19.color-changer**| A creative webpage where background changes black to white while toggle a button. | [source](./19.color-changer) ||
+[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/19.color-changer/)
 
