@@ -13,20 +13,22 @@ body{
     margin: 0;
 }
 
-#navigator{
+#navigation{
     background-color: wheat;
     padding: 20px;
     width: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 10px;
-    box-shadow: 0 2px 5px reba(0,0,0,0.5);
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.5);
     transition: width 0.6s linear;
 }
-#navigator.active{
+
+#navigation.active{
     width: 400px;
 }
+
 ul{
     display: flex;
     list-style-type: none;
@@ -34,4 +36,59 @@ ul{
     margin: 0;
     width: 0;
     transition: width 0.6s linear;
+}
+
+nav.active ul{
+    width: 100%;
+}
+
+nav ul li{
+    transform: rotate(0deg);
+    opacity: 0;
+    transition: transform 0.6s linear, opacity 0.6s linear;
+}
+
+nav.active ul li{
+    opacity: 1;
+    transform: rotateY(360deg);
+}
+nav ul a{
+    position: relative;
+    color: #000;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.icon{
+    background-color: wheat;
+    border: 0;
+    cursor: pointer;
+    padding: 0;
+    position: relative;
+    height: 30px;
+    width: 30px;
+    outline: none;
+}
+
+.icon .line{
+    background-color: blue;
+    height: 2px;
+    width: 20px;
+    position: absolute;
+    top:10px;
+    left: 5px;
+    transition: transform 0.6s linear;
+}
+
+.icon .line2{
+    top:auto;
+    bottom: 10px;
+}
+
+nav.active .icon .line1{
+    transform: rotate(-765deg) translateY(5.5px);
+}
+
+nav.active .icon .line2{
+    transform: rotate(765deg) translateY(-5.5px);
 }
