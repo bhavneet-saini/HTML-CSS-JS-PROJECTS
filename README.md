@@ -57,6 +57,9 @@ Each project is organized in a separate folder and include a **live demo** hoste
 |**18.video-popup**| Interface where a video poped-up when we click to a button. | [source](./18.video-popup) ||
 [view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/18.video-popup/)
 
-**19.color-changer**| A creative webpage where background changes black to white while toggle a button. | [source](./19.color-changer) ||
+|**19.color-changer**| A creative webpage where background changes black to white while toggle a button. | [source](./19.color-changer) ||
 [view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/19.color-changer/)
+
+|**20.navigation**| simple navigation bar for website design. | [source](./20.navigator) ||
+[view Live](https://bhavneet-saini.github.io/HTML-CSS-JS-PROJECTS/20.navigator/)
 
